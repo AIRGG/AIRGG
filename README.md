@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @airgg
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Machine Learning and AI
+- 👀 I’m interested in Software Engineering & Graphic Designer
 - 📫 How to reach me airlangga@anggaprint.com
 
 <!---
