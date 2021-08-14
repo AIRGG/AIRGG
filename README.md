@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @airgg
+- 👋 Hi, I’m [@AIRGG](https://airgg.github.io)
 - 👀 I’m interested in Software Engineering & Graphic Design
 - 📫 How to reach me airlangga@anggaprint.com
 
