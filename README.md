@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @airgg
-- 👀 I’m interested in Software Engineering & Graphic Designer
+- 👀 I’m interested in Software Engineering & Graphic Design
 - 📫 How to reach me airlangga@anggaprint.com
 
 <!---
